@@ -1,0 +1,4 @@
+[{"id": "Fantasy-Book", "name": "Fantasy Book", "Description": "Minimum 30% off", "image":"images/Kingmakers_cover_web.jpg"},
+ {"id": "Fictional-Book", "name": "Fictional Book", "Description": "Flat 20% On fictions", "image":"images/Halith book cover.jpg"},
+ {"id": "Virtualization-Book-off", "name": "Virtualization Book", "Description": "10% Off On virtualizations", "image":"images/iman.jpg"}
+]
